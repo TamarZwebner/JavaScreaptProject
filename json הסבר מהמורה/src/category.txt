@@ -1,0 +1,11 @@
+const header = document.querySelector('h2');
+// דבר ראשון חשוב לוודא שאכן הועברה קטגוריה ב url
+const searchParams = new URLSearchParams(location.search);
+// צורת שליפה של משתנה כלשהוא ממשתני ה url
+const category = searchParams.get('category');
+if (!category) {
+    // ניתוב חזרה לעמוד הבית
+    location.href = '/';
+}
+
+header.innerHTML = category;

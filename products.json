@@ -1,0 +1,579 @@
+{"p":[
+    {
+        "name": "זר לראש נסיכה",
+        "price": "62",
+        "img": "zers/zer1.webp",
+        "category":"11",
+        "cate":"1",
+        "codeP":"1"
+    },
+    {
+        "name": "זר לראש סינדרלה",
+        "price": "75",
+        "img": "zers/zer2.webp",
+        "category":"11",
+        "cate":"1",
+        "codeP":"2"
+    },
+    {
+        "name": "זר לראש יופי בלבן",
+        "price": "100",
+        "img": "zers/zer3.webp",
+        "category":"11",
+        "cate":"1",
+        "codeP":"3"
+    },
+    {
+        "name": "זר לראש ויקטוריה",
+        "price": "70",
+        "img": "zers/zer4.webp",
+        "category":"11",
+        "cate":"1",
+        "codeP":"4"
+    },
+    {
+        "name": "זר לראש חלום ורוד",
+        "price": "80",
+        "img": "zers/zer5.webp",
+        "category":"11",
+        "cate":"1",
+        "codeP":"5"
+    },
+    {
+        "name": "זר לראש שלגיה",
+        "price": "59",
+        "img": "zers/zer6.webp",
+        "category":"11",
+        "cate":"1",
+        "codeP":"6"
+    },
+    {
+        "name": "זר לראש חופשי",
+        "price": "62",
+        "img": "zers/zer7.webp",
+        "category":"11",
+        "cate":"1",
+        "codeP":"7"
+    },
+    {
+        "name": "זר לראש אליזבת",
+        "price": "90",
+        "img": "zers/zer8.webp",
+        "category":"11",
+        "cate":"1",
+        "codeP":"8"
+    },
+    {
+        "name": "זר לראש שושנים",
+        "price": "62",
+        "img": "zers/zer9.webp",
+        "category":"11",
+        "cate":"1",
+        "codeP":"42"
+    },
+    {
+        "name": "סידור משי",
+        "price": "200",
+        "img": "flowers/flower1.webp",
+        "category":"12",
+        "cate":"1",
+        "codeP":"9"
+    },
+    {
+        "name": "סידור שלווה",
+        "price": "190",
+        "img": "flowers/flower2.webp",
+        "category":"12",
+        "cate":"1",
+        "codeP":"10"
+    },
+    {
+        "name": "סידור הדוכס הלבן",
+        "price": "156",
+        "img": "flowers/flower3.jpg",
+        "category":"12",
+        "cate":"1",
+        "codeP":"11"
+    },
+    {
+        "name": "סידור סיוון",
+        "price": "480",
+        "img": "flowers/flower4.jpg",
+        "category":"12",
+        "cate":"1",
+        "codeP":"12"
+    },
+    {
+        "name": "סידור ספיר",
+        "price": "400",
+        "img": "flowers/flower5.webp",
+        "category":"12",
+        "cate":"1",
+        "codeP":"13"
+    },
+    {
+        "name": "סידור אגוז",
+        "price": "170",
+        "img": "flowers/flower6.webp",
+        "category":"12",
+        "cate":"1",
+        "codeP":"14"
+    },
+    {
+        "name": "סידור אופוריה",
+        "price": "320",
+        "img": "flowers/flower7.webp",
+        "category":"12",
+        "cate":"1",
+        "codeP":"15"
+    },
+    {
+        "name": "סידור אדווה",
+        "price": "180",
+        "img": "flowers/flower8.webp",
+        "category":"12",
+        "cate":"1",
+        "codeP":"16"
+    },  
+    {
+        "name": "סידור מהמם",
+        "price": "123",
+        "img": "flowers/flowers10.webp",
+        "category":"12",
+        "cate":"1",
+        "codeP":"44"
+    }, 
+    {
+        "name": "סידור גוזמניה",
+        "price": "230",
+        "img": "flowers/flowers11.webp",
+        "category":"12",
+        "cate":"1",
+        "codeP":"45"
+    }, 
+    {
+        "name": "סידור נולינה",
+        "price": "120",
+        "img": "flowers/flowers12.webp",
+        "category":"12",
+        "cate":"1",
+        "codeP":"46"
+    }, 
+    {
+        "name": "סידור מרגריטה",
+        "price": "177",
+        "img": "flowers/flowers13.jpg",
+        "category":"12",
+        "cate":"1",
+        "codeP":"47"
+    }, 
+    {
+        "name": "סידור אהבה",
+        "price": "150",
+        "img": "flowers/flowers14.webp",
+        "category":"12",
+        "cate":"1",
+        "codeP":"43"
+    },
+    {
+        "name": "סחלב אמבר בכלי",
+        "price": "87",
+        "img": "orchid/Orchids1.jpg",
+        "category":"21",
+        "cate":"2",
+        "codeP":"17"
+    },
+    {
+        "name": "סחלב פונטנו בכלי",
+        "price": "64",
+        "img": "orchid/Orchids2.jpg",
+        "category":"21",
+        "cate":"2",
+        "codeP":"18"
+    },
+    {
+        "name": "סחלב דיימונד",
+        "price": "150",
+        "img": "orchid/Orchids3.jpg",
+        "category":"21",
+        "cate":"2",
+        "codeP":"19"
+    },
+    {
+        "name": "סחלב בליסימו",
+        "price": "70",
+        "img": "orchid/Orchids4.webp",
+        "category":"21",
+        "cate":"2",
+        "codeP":"20"
+    },
+    {
+        "name": "סחלב הקשת",
+        "price": "80",
+        "img": "orchid/Orchids5.jpg",
+        "category":"21",
+        "cate":"2",
+        "codeP":"21"
+    },
+    {
+        "name": "סחלב בודד בכלי",
+        "price": "59",
+        "img": "orchid/Orchids6.jpg",
+        "category":"21",
+        "cate":"2",
+        "codeP":"22"
+    },
+    {
+        "name": "סחלב פורמידבלו",
+        "price": "68",
+        "img": "orchid/Orchids7.webp",
+        "category":"21",
+        "cate":"2",
+        "codeP":"23"
+    },
+    {
+        "name": "מלך הסחלבים",
+        "price": "100",
+        "img": "orchid/Orchids8.webp",
+        "category":"21",
+        "cate":"2",
+        "codeP":"24"
+    },
+    {
+        "name": "מלכת הסחלבים",
+        "price": "120",
+        "img": "orchid/Orchids9.webp",
+        "category":"21",
+        "cate":"2",
+        "codeP":"58"
+    },
+    {
+        "name": "סחלב ים",
+        "price": "140",
+        "img": "orchid/Orchids10.jpg",
+        "category":"21",
+        "cate":"2",
+        "codeP":"53"
+    },
+    {
+        "name": "סחלב מהמם ",
+        "price": "100",
+        "img": "orchid/Orchids11.webp",
+        "category":"21",
+        "cate":"2",
+        "codeP":"54"
+    },
+    {
+        "name": "סחלב נענע",
+        "price": "142",
+        "img": "orchid/Orchids12.jpg",
+        "category":"21",
+        "cate":"2",
+        "codeP":"55"
+    },
+    {
+        "name": "אנטוריום",
+        "price": "150",
+        "img": "potses/pots1.webp",
+        "category":"22",
+        "cate":"2",
+        "codeP":"25"
+    },
+    {
+        "name": "גוזמניה",
+        "price": "120",
+        "img": "potses/pots2.jpg",
+        "category":"22",
+        "cate":"2",
+        "codeP":"26"
+    },
+    {
+        "name": "עציץ זית",
+        "price": "156",
+        "img": "potses/pots3.webp",
+        "category":"22",
+        "cate":"2",
+        "codeP":"27"
+    },
+    {
+        "name": "נולינה",
+        "price": "170",
+        "img": "potses/pots4.webp",
+        "category":"22",
+        "cate":"2",
+        "codeP":"28"
+    },
+    {
+        "name": "עציץ כפרי",
+        "price": "90",
+        "img": "potses/pots5.webp",
+        "category":"22",
+        "cate":"2",
+        "codeP":"29"
+    },
+    {
+        "name": "קוקטיל",
+        "price": "140",
+        "img": "potses/pots6.webp",
+        "category":"22",
+        "cate":"2",
+        "codeP":"30"
+    },
+    {
+        "name": "דרנציה מרגריטה",
+        "price": "120",
+        "img": "potses/pots7.webp",
+        "category":"22",
+        "cate":"2",
+        "codeP":"31"
+    },
+    {
+        "name": "דרנציה מושמל",
+        "price": "150",
+        "img": "potses/pots8.webp",
+        "category":"22",
+        "cate":"2",
+        "codeP":"56"
+    },
+    {
+        "name": "עציץ זית רענן",
+        "price": "148",
+        "img": "potses/pots9.jpg",
+        "category":"22",
+        "cate":"2",
+        "codeP":"57"
+    },
+    {
+        "name": "מארז הנאות קטנות",
+        "price": "187",
+        "img": "gifts/gift1.webp",
+        "category":"3",
+        "cate":"3",
+        "codeP":"32"
+    },
+    {
+        "name": "היום שלך",
+        "price": "150",
+        "img": "gifts/gift2.jpg",
+        "category":"3",
+        "cate":"3",
+        "codeP":"33"
+    },
+    {
+        "name": "ג'ין ארט",
+        "price": "135",
+        "img": "gifts/gift3.jpg",
+        "category":"3",
+        "cate":"3",
+        "codeP":"34"
+    },
+    {
+        "name": "מתנה מפנקת",
+        "price": "120",
+        "img": "gifts/gift4.webp",
+        "category":"3",
+        "cate":"3",
+        "codeP":"35"
+    },
+    {
+        "name": "זר טוסקנה",
+        "price": "180",
+        "img": "gifts/gift5.jpg",
+        "category":"3",
+        "cate":"3",
+        "codeP":"36"
+    },
+    {
+        "name": "מארז גאיה",
+        "price": "159",
+        "img": "gifts/gift6.webp",
+        "category":"3",
+        "cate":"3",
+        "codeP":"37"
+    },
+    {
+        "name": "למי שאוהבים",
+        "price": "200",
+        "img": "gifts/gift7.jpg",
+        "category":"3",
+        "cate":"3",
+        "codeP":"38"
+    },
+    {
+        "name": "זר מיקס",
+        "price": "110",
+        "img": "gifts/gift8.jpg",
+        "category":"3",
+        "cate":"3",
+        "codeP":"39"
+    },
+    {
+        "name": "זר לראש מפנק",
+        "price": "178",
+        "img": "gifts/gift9.webp",
+        "category":"3",
+        "cate":"3",
+        "codeP":"40"
+    },
+    {
+        "name":"כרטיס מועדון לקוחות",
+        "img":"Page.jpg",
+        "price":"40",
+        "cate":"4",
+        "codeP":"41"
+    },
+    {
+        "name": "מארז סבונים",
+        "price": "200",
+        "img": "gifts/gift10.webp",
+        "category":"3",
+        "cate":"3",
+        "codeP":"48"
+    },
+    {
+        "name": "מתנה ליולדת",
+        "price": "180",
+        "img": "gifts/gift11.webp",
+        "category":"3",
+        "cate":"3",
+        "codeP":"49"
+    },
+    {
+        "name": "מתנה לגבר",
+        "price": "123",
+        "img": "gifts/gift12.webp",
+        "category":"3",
+        "cate":"3",
+        "codeP":"50"
+    },
+    {
+        "name": "בלון ליולדת",
+        "price": "68",
+        "img": "gifts/gift13.webp",
+        "category":"3",
+        "cate":"3",
+        "codeP":"51"
+    },
+    {
+        "name": "בלון יומולדת",
+        "price": "50",
+        "img": "gifts/gift14.webp",
+        "category":"3",
+        "cate":"3",
+        "codeP":"52"
+    },
+    {
+        "name": "סידור אדום יין",
+        "price": "120",
+        "img": "Pampering/Pampering1.webp",
+        "category":"5",
+        "cate":"5",
+        "codeP":"59"
+    },
+    {
+        "name": "סידור פרחים מושלם ",
+        "price": "150",
+        "img": "Pampering/Pampering2.jpg",
+        "category":"5",
+        "cate":"5",
+        "codeP":"60"
+    },
+    {
+        "name": "פרחים מלבלבים",
+        "price": "160",
+        "img": "Pampering/Pampering3.jpg",
+        "category":"5",
+        "cate":"5",
+        "codeP":"61"
+    },
+    {
+        "name": "זר שושבנית",
+        "price": "135",
+        "img": "Pampering/Pampering4.jpg",
+        "category":"5",
+        "cate":"5",
+        "codeP":"62"
+    },
+    {
+        "name": "זר אילת חן",
+        "price": "130",
+        "img": "Pampering/Pampering5.jpg",
+        "category":"5",
+        "cate":"5",
+        "codeP":"63"
+    },
+    {
+        "name": "מתנה משמחת",
+        "price": "250",
+        "img": "Pampering/Pampering6.webp",
+        "category":"5",
+        "cate":"5",
+        "codeP":"64"
+    },
+    {
+        "name": "מתנה מעוצבת",
+        "price": "210",
+        "img": "Pampering/Pampering7.jpg",
+        "category":"5",
+        "cate":"5",
+        "codeP":"65"
+    },
+    {
+        "name": "סידור פרחים מהמם ",
+        "price": "120",
+        "img": "Pampering/Pampering8.jpg",
+        "category":"5",
+        "cate":"5",
+        "codeP":"66"
+    },
+    {
+        "name": "זר של החיים ",
+        "price": "150",
+        "img": "Pampering/Pampering9.webp",
+        "category":"5",
+        "cate":"5",
+        "codeP":"67"
+    },
+    {
+        "name": "פרחים הולנדים ",
+        "price": "188",
+        "img": "Pampering/Pampering10.jpg",
+        "category":"5",
+        "cate":"5",
+        "codeP":"68"
+    },
+    {
+        "name": " עציץ לבית",
+        "price": "130",
+        "img": "Pampering/Pampering11.webp",
+        "category":"5",
+        "cate":"5",
+        "codeP":"69"
+    },
+    {
+        "name": "מתנה לפנק ",
+        "price": "250",
+        "img": "Pampering/Pampering12.webp",
+        "category":"5",
+        "cate":"5",
+        "codeP":"70"
+    },
+    {
+        "name": "זר שוקולדים ",
+        "price": "132",
+        "img": "Pampering/Pampering13.jpg",
+        "category":"5",
+        "cate":"5",
+        "codeP":"71"
+    },
+    {
+        "name": "מתנה למי שמעריכים",
+        "price": "120",
+        "img": "Pampering/Pampering14.webp",
+        "category":"5",
+        "cate":"5",
+        "codeP":"72"
+    }
+
+]}
+

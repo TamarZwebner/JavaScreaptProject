@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>תשלום</title>
+    <link rel="shortcut icon" type="jpg" href="image/images2.jpg">
+    <link rel="stylesheet" href="Project.css">
+    <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/solid.css">
+    <link rel="stylesheet" href="./icons/css/all.css" />
+</head>
+
+<body>
+    <div id="PayLogo"><a href="Project.html"><img src="image/logo5_1.jpg" alt=""></a></div>
+    <div class="row2">
+        <div class="col-75">
+            <div class="container">
+                <form action="/action_page.php">
+
+                    <div class="row2">
+                        <div class="col-50">
+                            <h3>פרטי לקוח</h3>
+                            <label for="fname"><i class="fa fa-user"></i>שם מלא</label>
+                            <input type="text" id="fname" name="firstname" placeholder="">
+                            <label for="email"><i class="fa fa-envelope"></i> מייל</label>
+                            <input type="text" id="email" name="email" placeholder="">
+                            <label for="adr"><i class="fa fa-address-card"></i>כתובת</label>
+                            <input type="text" id="adr" name="address" placeholder="">
+                            <label for="city"><i class="fa fa-city"></i> עיר</label>
+                            <input type="text" id="city" name="city" placeholder="">
+
+                            <div class="col-50">
+                                <label for="ccnum">מספר כרטיס אשראי</label>
+                                <input type="text" id="ccnum" name="cardnumber" placeholder="XXXX-XXXX-XXXX-XXXX">
+                                <label for="expmonth">תוקף(חודש)</label>
+                                <input type="text" id="expmonth" name="expmonth" placeholder="September">
+
+                                <div class="row2">
+                                    <div class="col-50">
+                                        <label for="expyear">תוקף(שנה)</label>
+                                        <input type="text" id="expyear" name="expyear" placeholder="2018">
+                                    </div>
+                                    <div class="col-50">
+                                        <label for="cvv">שלוש ספרות בגב הכרטיס </label>
+                                        <input type="text" id="cvv" name="cvv" placeholder="cvv">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <input type="submit" value="תשלום" class="btn">
+                        <a href="bag.html">חזרה לעגלה</a>
+                        <a href="Project.html">לדף הבית</a>
+                </form>
+            </div>
+        </div>
+
+</body>
+
+</html>
